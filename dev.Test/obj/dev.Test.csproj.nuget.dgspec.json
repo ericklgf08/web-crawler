@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ravi/Projects/web-crawler/dev.Test/dev.Test.csproj": {}
+  },
+  "projects": {
+    "/home/ravi/Projects/web-crawler/dev.Test/dev.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ravi/Projects/web-crawler/dev.Test/dev.Test.csproj",
+        "projectName": "dev.Test",
+        "projectPath": "/home/ravi/Projects/web-crawler/dev.Test/dev.Test.csproj",
+        "packagesPath": "/home/ravi/.nuget/packages/",
+        "outputPath": "/home/ravi/Projects/web-crawler/dev.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ravi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ravi/Projects/web-crawler/dev/dev.csproj": {
+                "projectPath": "/home/ravi/Projects/web-crawler/dev/dev.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "dotnet-xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.6.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ravi/Projects/web-crawler/dev/dev.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ravi/Projects/web-crawler/dev/dev.csproj",
+        "projectName": "dev",
+        "projectPath": "/home/ravi/Projects/web-crawler/dev/dev.csproj",
+        "packagesPath": "/home/ravi/.nuget/packages/",
+        "outputPath": "/home/ravi/Projects/web-crawler/dev/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ravi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "dotnet-xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.6.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
