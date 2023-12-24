@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dev", "dev\dev.csproj", "{D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dev (1)", "dev", "{F45D5117-E98A-4BD0-B422-F0C099B9C6AA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dev.Test", "dev\dev.Test\dev.Test.csproj", "{E46B6A19-E733-4D29-9149-DF34BD9E61ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dev.Test", "dev.Test\dev.Test.csproj", "{E46B6A19-E733-4D29-9149-DF34BD9E61ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
